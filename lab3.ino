@@ -1,7 +1,6 @@
 #include <Arduino.h>
 #include <MD_TCS230.h>
 #include "LedControl.h"
-#include "symbols.h"
 
 #define  S0_OUT  2
 #define  S1_OUT  3
